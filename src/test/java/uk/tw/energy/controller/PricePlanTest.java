@@ -1,7 +1,8 @@
-package uk.tw.energy.domain;
+package uk.tw.energy.controller;
 
 import org.assertj.core.data.Percentage;
 import org.junit.jupiter.api.Test;
+
 
 import java.math.BigDecimal;
 import java.time.DayOfWeek;
